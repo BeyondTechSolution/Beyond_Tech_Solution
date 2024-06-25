@@ -1,8 +1,6 @@
 # Welocome to Beyond Tech Solution 🌟
 
-## About Us
-
-Welcome to Beyond Tech Solution! We are a forward-thinking IT startup committed to transforming the tech landscape with innovative solutions and cutting-edge technology. Our team of dedicated professionals delivers high-quality products designed to empower businesses and enhance user experiences.
+We are a forward-thinking IT startup committed to transforming the tech landscape with innovative solutions and cutting-edge technology. Our team of dedicated professionals delivers high-quality products designed to empower businesses and enhance user experiences.
 
 ## Our Mission  🚀
 
